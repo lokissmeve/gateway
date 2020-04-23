@@ -127,7 +127,6 @@ stages:
                       targetPort: 8080
                   selector:
                     app: $(imageRepository)
-                type:
-                  LoadBalancer
+                  type: LoadBalancer
               secretType: 'dockerRegistry'
               containerRegistryType: 'Azure Container Registry'
