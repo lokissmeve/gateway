@@ -186,6 +186,17 @@ public class Warehouse {
 
 ![이미지 13](https://user-images.githubusercontent.com/63028464/80049988-66184a80-854f-11ea-8289-6d59071e76f9.png)
 
+## KAFKA 설정
+
+![이미지 18](https://user-images.githubusercontent.com/63028464/80061449-45aab900-856c-11ea-8051-1eb9000f015e.png)
+
+## GateWay 설정
+
+![이미지 20](https://user-images.githubusercontent.com/63028464/80061521-7be83880-856c-11ea-91ca-64773b97e7c3.png)
+
+## 동작 확인
+
+![이미지 15](https://user-images.githubusercontent.com/63028464/80061569-98847080-856c-11ea-9267-ee9643827043.png)
 
 ## 동기식 호출 / 서킷 브레이킹 / 장애격리
 
